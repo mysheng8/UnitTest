@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Shadowmap/example.unity
+  isLoaded: 0
+  isActive: 0
